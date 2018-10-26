@@ -28,16 +28,16 @@ Codewars:
      26. http://www.codewars.com/kata/new-with-apply
      27. http://www.codewars.com/kata/extract-nested-object-reference
      28. http://www.codewars.com/kata/array-helpers
-     29. * http://www.codewars.com/kata/replicate-new
+     29. http://www.codewars.com/kata/replicate-new
      30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
      31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
      32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
      
   - __Optional__
-     - http://www.codewars.com/kata/lazy-evaluation
-     - http://www.codewars.com/kata/tail-recursion-with-trampoline
-     - http://www.codewars.com/kata/functional-sql
-     - http://www.codewars.com/kata/can-you-get-the-loop
+     - * http://www.codewars.com/kata/lazy-evaluation
+     - * http://www.codewars.com/kata/tail-recursion-with-trampoline
+     - * http://www.codewars.com/kata/functional-sql
+     - * http://www.codewars.com/kata/can-you-get-the-loop
   
   ### критерии оценки
 *  1 балл за задачу 8 kyu и 7 kyu (всего 14 штук)
