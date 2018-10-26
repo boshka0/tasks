@@ -37,7 +37,7 @@ Codewars:
      - * http://www.codewars.com/kata/lazy-evaluation
      - * http://www.codewars.com/kata/tail-recursion-with-trampoline
      - * http://www.codewars.com/kata/functional-sql
-     - * http://www.codewars.com/kata/can-you-get-the-loop
+     - http://www.codewars.com/kata/can-you-get-the-loop
   
   ### критерии оценки
 *  1 балл за задачу 8 kyu и 7 kyu (всего 14 штук)
